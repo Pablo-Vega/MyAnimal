@@ -11,14 +11,7 @@ function App() {
     <>
       <h1>Soy un {datos.animal} y vivo feliz</h1>
       <img className='avatar' src={datos.imagenUrl} alt='img' style={{width: datos.imagenSize, height: datos.imagenSize}}/>
-      <CustomButton
-                text="Buenas"
-                textColor="white"
-                backgroundColor="red"
-                borderColor="green"
-                size="medium"
-                disabled={!acceptedTerms}
-              />  
+        
     </>
   )
 }
