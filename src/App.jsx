@@ -28,7 +28,9 @@ function App() {
       <CustomButton
         text={`Me picastes ${count} veces`}                        
         size="medium"                      
-        onClick={handleClick}              
+        onClick={handleClick}
+        backgroundColor="red"
+        txtcolor='black'              
       />
     </>
   );
