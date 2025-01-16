@@ -14,8 +14,6 @@
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^6.1.5",
     "angular-app-grid": "^1.0.0",
-    "milibreria": "github:Pablo-Vega/ProyectoUT1",
-    "myanimal": "github:Pablo-Vega/MyAnimal",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
